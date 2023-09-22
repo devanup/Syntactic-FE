@@ -11,6 +11,8 @@ module.exports = {
 			fontFamily: {
 				mooli: ["'Mooli'", 'sans-serif'],
 				inconsolata: ['Inconsolata', 'monospace'],
+				cabin: ['Cabin', 'sans-serif'],
+				ubuntu: ['Ubuntu', 'sans-serif'],
 			},
 		},
 	},
